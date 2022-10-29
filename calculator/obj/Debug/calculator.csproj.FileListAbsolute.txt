@@ -1,0 +1,10 @@
+E:\.net Task\calculator\calculator\bin\Debug\calculator.exe.config
+E:\.net Task\calculator\calculator\bin\Debug\calculator.exe
+E:\.net Task\calculator\calculator\bin\Debug\calculator.pdb
+E:\.net Task\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+E:\.net Task\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\.net Task\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\.net Task\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\.net Task\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\.net Task\calculator\calculator\obj\Debug\calculator.exe
+E:\.net Task\calculator\calculator\obj\Debug\calculator.pdb
